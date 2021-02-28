@@ -1,5 +1,5 @@
 /* Encoding of the open knight tours problem         */
-/* by Marijn Heule, last edited on September 1, 2016 */
+/* by Marijn Heule, last edited on February 27, 2021 */
 
 /******************************************************
 There are 168 different knight moves. These are
